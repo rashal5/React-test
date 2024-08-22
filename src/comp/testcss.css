@@ -1,0 +1,25 @@
+/*
+.container-xxl{
+    background-color: rgba(0, 0, 0, 0);
+}
+.container-sm{
+    background-color: rgb(255, 145, 0);
+}
+.container-fluid{
+    background-color: rgb(128, 216, 216);
+}
+.container{
+    background-color: transparent;
+}
+.container-xl{
+    background-color: rgb(47, 255, 0);
+}
+.row{
+    border: 2px solid blue;
+}
+.col-1{
+    border: 2px solid rgb(117, 117, 147);
+}
+.col-4{
+    border: 2px solid rgb(0, 0, 0);
+}

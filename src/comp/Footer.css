@@ -1,0 +1,12 @@
+.custom-footer {
+    background-color: #343a40; /* Gray background */
+    font-family: 'Arial, sans-serif'; /* Custom font */
+}
+
+.custom-footer .text-light, .custom-footer a.text-light {
+    color: #ffffff !important; /* White text */
+}
+
+.custom-footer a.text-light:hover {
+    color: #cccccc !important; /* Light gray on hover */
+}
